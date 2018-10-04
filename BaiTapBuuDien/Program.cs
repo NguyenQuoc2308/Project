@@ -6,7 +6,7 @@ namespace BaiTapBuuDien
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World! my name is Tran Dat");
         }
     }
 }
